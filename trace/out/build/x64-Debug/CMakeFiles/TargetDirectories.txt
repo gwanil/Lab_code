@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Lab_code/trace/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Lab_code/trace/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Lab_code/trace/out/build/x64-Debug/trace/CMakeFiles/trace.dir
+C:/Users/User/Desktop/Lab_code/trace/out/build/x64-Debug/trace/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Lab_code/trace/out/build/x64-Debug/trace/CMakeFiles/rebuild_cache.dir
